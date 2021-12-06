@@ -11540,3 +11540,12 @@ html {
   margin-left: 40%;
 
 }
+
+.skills-row{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  margin-top: 80px;
+  
+}
+
